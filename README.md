@@ -1,6 +1,6 @@
 # udacity-nn-basics
 
-##Created for basic understanding of neural network inspired from Deeplearning Nanodegree program from Udacity.
+#Created for basic understanding of neural network inspired from Deeplearning Nanodegree program from Udacity.
 
 Here we have two folders:
   1.gradient-descent
