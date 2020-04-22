@@ -14,3 +14,7 @@ First one gradient-descent gives an easy intuition about how to apply gradient d
 Second folder gives a basic intro to your first neural network training.
 
 Hope it helps you guys!!
+
+Regards
+
+![Jayaraj J](https://linkedin.com/in/jyjnair)
